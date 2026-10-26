@@ -1,0 +1,64 @@
+# Introduction to Photosynthesis
+Photosynthesis is the process by which green plants, algae and some bacteria make their own food using light energy. These organisms are called autotrophs because they produce organic compounds from simple inorganic substances.
+During photosynthesis, light energy is converted into chemical energy that is stored in glucose. The raw materials are carbon dioxide, taken in from the air through tiny pores called stomata, and water, absorbed from the soil by the roots.
+The overall balanced equation for photosynthesis is:
+6CO2 + 6H2O + light energy -> C6H12O6 + 6O2
+Oxygen is released as a by-product. Almost all the oxygen in the atmosphere comes from photosynthesis.
+Photosynthesis takes place in two main stages. The first stage is the light-dependent reactions, which need light directly. The second stage is the light-independent reactions, also called the Calvin cycle, which use the products of the first stage to build sugar.
+Most photosynthesis happens in the leaves. Leaves are broad and flat to capture more light, and thin so that gases can diffuse quickly to the cells inside.
+
+# Chloroplasts and Photosynthetic Pigments
+Photosynthesis takes place inside organelles called chloroplasts. Chloroplasts are found mainly in the mesophyll cells of the leaf. A single mesophyll cell can contain 20 to 100 chloroplasts.
+Each chloroplast is surrounded by a double membrane. Inside is a fluid called the stroma, which contains enzymes for the Calvin cycle. Floating in the stroma are flattened sacs called thylakoids. A stack of thylakoids is called a granum (plural: grana). The light-dependent reactions take place on the thylakoid membranes.
+The main pigment in chloroplasts is chlorophyll. There are two main types: chlorophyll a and chlorophyll b. Chlorophyll a is the primary pigment that takes part directly in the light reactions. Chlorophyll b is an accessory pigment that captures extra light and passes the energy to chlorophyll a.
+Chlorophyll absorbs mainly blue and red light. It reflects green light, which is why leaves look green.
+Carotenoids are yellow and orange accessory pigments. They absorb blue-green light and also protect chlorophyll from damage caused by very strong light.
+
+# The Light-Dependent Reactions
+The light-dependent reactions take place on the thylakoid membranes of the chloroplast. Their job is to capture light energy and store it in two energy-carrying molecules: ATP and NADPH.
+Step 1: Light is absorbed by chlorophyll in Photosystem II. The energy excites electrons, which leave the chlorophyll molecule.
+Step 2: To replace these electrons, water molecules are split. This splitting of water by light is called photolysis. Photolysis produces electrons, hydrogen ions (H+) and oxygen gas. The oxygen released by plants comes from water, not from carbon dioxide.
+Step 3: The excited electrons pass along an electron transport chain. As they move, their energy is used to pump hydrogen ions into the thylakoid space.
+Step 4: Hydrogen ions flow back out through an enzyme called ATP synthase, which makes ATP from ADP and phosphate. This process is called photophosphorylation.
+Step 5: In Photosystem I, light energy boosts the electrons again. These electrons, together with hydrogen ions, reduce NADP+ to form NADPH.
+In summary, the light-dependent reactions use light and water and produce ATP, NADPH and oxygen.
+
+# The Calvin Cycle (Light-Independent Reactions)
+The Calvin cycle takes place in the stroma of the chloroplast. It does not need light directly, but it needs the ATP and NADPH made in the light-dependent reactions. The cycle is named after Melvin Calvin, who worked out its steps.
+The Calvin cycle has three phases.
+Phase 1, carbon fixation: Carbon dioxide combines with a five-carbon sugar called ribulose bisphosphate (RuBP). This reaction is catalysed by the enzyme RuBisCO, which is thought to be the most abundant protein on Earth. The product splits into two three-carbon molecules.
+Phase 2, reduction: ATP and NADPH are used to convert these three-carbon molecules into glyceraldehyde-3-phosphate (G3P), a three-carbon sugar.
+Phase 3, regeneration: Most of the G3P is used to rebuild RuBP so the cycle can continue. This step also uses ATP.
+For every three molecules of carbon dioxide that enter the cycle, one molecule of G3P leaves the cycle. This uses 9 ATP and 6 NADPH. Two G3P molecules can be combined to make one glucose molecule.
+
+# Factors Affecting the Rate of Photosynthesis
+The rate of photosynthesis can be measured by the volume of oxygen released or the amount of carbon dioxide taken in per minute. Three main factors affect the rate.
+Light intensity: As light intensity increases, the rate of photosynthesis increases, because more energy is available for the light-dependent reactions. At high light intensity the rate levels off, because another factor becomes limiting.
+Carbon dioxide concentration: More carbon dioxide increases the rate of carbon fixation in the Calvin cycle, until another factor becomes limiting. Greenhouse growers sometimes add carbon dioxide to increase crop yield.
+Temperature: Photosynthesis is controlled by enzymes. The rate rises with temperature up to an optimum, usually around 25 to 35 degrees Celsius for many plants. Above the optimum, enzymes such as RuBisCO begin to denature and the rate falls quickly.
+The law of limiting factors states that the rate of a process is controlled by the factor that is in shortest supply. Increasing any other factor will not increase the rate.
+
+# C3, C4 and CAM Plants
+Most plants, such as wheat, rice and beans, are C3 plants. Their first stable product of carbon fixation is a three-carbon molecule.
+In hot, dry conditions, plants close their stomata to save water. Carbon dioxide inside the leaf then falls and oxygen builds up. RuBisCO can then bind oxygen instead of carbon dioxide. This wasteful process is called photorespiration, and it reduces the efficiency of photosynthesis.
+C4 plants, such as maize and sugarcane, avoid photorespiration. They first fix carbon dioxide into a four-carbon compound in mesophyll cells. This compound is moved to bundle sheath cells, where carbon dioxide is released at high concentration around RuBisCO. This arrangement of cells is called Kranz anatomy.
+CAM plants, such as cacti and pineapple, live in very dry places. They open their stomata only at night and store carbon dioxide as an acid. During the day the stomata stay closed to save water, and the stored carbon dioxide is released for the Calvin cycle.
+
+# Importance of Photosynthesis
+Photosynthesis is the starting point of almost every food chain on Earth. Plants are producers, and the energy they store in sugars is passed to herbivores and then to carnivores.
+Photosynthesis releases oxygen, which most living organisms need for aerobic respiration.
+Photosynthesis removes carbon dioxide from the atmosphere and is a key part of the carbon cycle. Forests and ocean algae act as carbon sinks.
+The glucose made by plants is used for respiration, converted to starch for storage, turned into cellulose for cell walls, and used to make proteins and fats.
+Fossil fuels such as coal, oil and natural gas formed from organisms that lived millions of years ago. The energy in these fuels originally came from sunlight captured by photosynthesis.
+Photosynthesis and respiration are complementary processes. Photosynthesis stores energy and uses carbon dioxide, while respiration releases energy and produces carbon dioxide.
+
+# Quick Revision Summary
+Photosynthesis converts light energy into chemical energy stored in glucose.
+Equation: carbon dioxide plus water, with light, gives glucose plus oxygen.
+Location: chloroplasts. Light reactions occur on thylakoid membranes; the Calvin cycle occurs in the stroma.
+Chlorophyll absorbs blue and red light and reflects green light.
+Light reactions: photolysis of water releases oxygen; ATP and NADPH are produced.
+Calvin cycle: carbon fixation by RuBisCO, reduction to G3P, regeneration of RuBP.
+Limiting factors: light intensity, carbon dioxide concentration and temperature.
+C4 plants such as maize reduce photorespiration using Kranz anatomy. CAM plants open their stomata at night.
+Key terms: autotroph, stomata, thylakoid, granum, stroma, photolysis, photophosphorylation, RuBisCO, RuBP, G3P, photorespiration.

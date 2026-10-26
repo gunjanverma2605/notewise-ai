@@ -1,0 +1,21 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local app data (vector index, SQLite chats, uploaded notes)
+data/
+
+# Secrets and local settings
+.env
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Output of the real-model check scripts
+mind_map_check.svg
+revision_book_check.html

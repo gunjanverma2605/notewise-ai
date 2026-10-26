@@ -1,0 +1,19 @@
+[theme]
+base = "light"
+primaryColor = "#6D4AFF"
+backgroundColor = "#FAF9FF"
+secondaryBackgroundColor = "#F1EDFF"
+textColor = "#1E1B3A"
+
+[server]
+maxUploadSize = 20
+# Serves files in ./static (font, banner image, avatars) for offline use.
+enableStaticServing = true
+
+[browser]
+# NoteWise runs offline; don't send usage statistics anywhere.
+gatherUsageStats = false
+
+[client]
+# Hide Streamlit's developer "Deploy" toolbar; the app runs locally.
+toolbarMode = "minimal"
